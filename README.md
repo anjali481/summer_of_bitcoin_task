@@ -9,6 +9,7 @@
 3. Otherwise move to the next transaction
 
 A complete solution is available in [Summer_of_bitcoin](https://github.com/anjali481/summer_of_bitcoin_task/blob/main/Summer_of_bitcoin.ipynb) file
+
 The output is stored in block.txt file
 
 
