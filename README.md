@@ -15,3 +15,14 @@ The output is stored in [block.txt](https://github.com/anjali481/summer_of_bitco
 
 
 
+
+
+## Output Screenshot
+
+
+![image](https://user-images.githubusercontent.com/55936581/122632854-07b70f80-d0f3-11eb-8086-23c35f761b2e.png)
+
+
+
+
+
